@@ -1,0 +1,31 @@
+*{
+    color: #ffffff;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #eee;
+}
+
+.bg {
+    background: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)),url(../images/dialogc.jpg);
+    height: 100vh;
+    width: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+h3 {
+    color: white;
+    text-align: center;
+}
+
+.form {
+    padding: 40px 40px;
+    margin-top: 5vh;
+    border: 1px solid;
+    box-shadow: -1px 4px 24px 12px rgba(51, 51, 51, 0.75);
+
+}
+
